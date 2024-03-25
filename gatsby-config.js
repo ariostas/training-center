@@ -1,6 +1,7 @@
 module.exports = {
+  pathPrefix: `/training-center`,
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    siteUrl: "https://ariostas.github.io",
     title: "Training Center Demo",
   },
   plugins: [
