@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/training-center`,
+  pathPrefix: `/training-center/training-center`,
   siteMetadata: {
     siteUrl: "https://ariostas.github.io",
     title: "Training Center Demo",
