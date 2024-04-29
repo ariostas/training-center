@@ -30,6 +30,7 @@ jobs:
           PREFIX_PATHS=true npm run build
           mkdir website
           mv public website/training-center
+          cp redirect.html website/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
